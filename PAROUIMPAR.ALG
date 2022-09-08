@@ -2,12 +2,12 @@ algoritmo "ParOuImpar"
 var
    N:inteiro
 inicio
-   Escreva("Digite um número: ")
-   Leia(n)
+   Escreva("Digite um nÃºmero: ")
+   Leia(N)
    se (N%2=0) entao
-      Escreval ("O Número", N, " é par")
+      Escreval ("O NÃºmero", N, " Ã© par")
    Senao
-      Escreval ("O Número", N, " é impar")
+      Escreval ("O NÃºmero", N, " Ã© impar")
    FimSe
 
 fimalgoritmo
